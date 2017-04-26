@@ -1,0 +1,4 @@
+﻿  Stack.cpp
+f:\college\csci 212\coding\consoleapplication5\consoleapplication5\stack.cpp(56): warning C4715: 'Stack::pop': not all control paths return a value
+  ConsoleApplication5.vcxproj -> F:\College\csci 212\Coding\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
+  ConsoleApplication5.vcxproj -> F:\College\csci 212\Coding\ConsoleApplication5\x64\Debug\ConsoleApplication5.pdb (Partial PDB)
