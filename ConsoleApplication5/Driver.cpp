@@ -17,6 +17,7 @@ int main()
 
 	cout << "hello world\n"; 
 
+	cout << "CHANGED";
 
 	return 0;
 }
